@@ -1,4 +1,12 @@
-# Ideathon - API de Predicción Meteorológica y HDD
+# IDEATHON
+
+## Resolución Problema:
+
+### Jupiter Notebook
+
+https://colab.research.google.com/drive/1OoD4GwjDepkVsrDlWVUWeTW6WDYBgDmz
+
+## API de Predicción Meteorológica y HDD para 7 días
 
 Este proyecto es un **servicio REST en Spring Boot** que obtiene la predicción meteorológica de los próximos 7 días desde la API de AEMET y calcula los **Heating Degree Days (HDD)** según una fórmula avanzada.
 
