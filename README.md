@@ -2,15 +2,45 @@
 
 ## Resolución Problema:
 
-### Jupiter Notebook
+## Jupiter Notebook
 
 https://colab.research.google.com/drive/1OoD4GwjDepkVsrDlWVUWeTW6WDYBgDmz
+
+## Resultado:
+
+<img src="image.png" />
+
+### 📋 DELIVERABLES READY:
+
+✓ Jupyter Notebook with machine learning models
+✓ AEMET weather integration (with fallback)
+✓ Biomass consumption prediction system
+✓ Interactive visualization dashboard
+
+### 🎯 KEY RESULTS:
+
+• Total biomass needed next week: 7,249,500 kg
+• Average energy per installation: 6,039,584 kWh
+• Weekly HDD forecast: 28.8
+• Energy model: Energy = 185,168 × HDD + 716,000
+• Biomass model: Biomass = 0.3000 × Energy + 500
+
+### 💡 BUSINESS IMPACT:
+
+• Optimized biomass supply chain planning
+• Reduced waste through accurate forecasting
+• Cost savings from efficient resource allocation
+• Data-driven decision making for energy management
 
 ## API de Predicción Meteorológica y HDD para 7 días
 
 Este proyecto es un **servicio REST en Spring Boot** que obtiene la predicción meteorológica de los próximos 7 días desde la API de AEMET y calcula los **Heating Degree Days (HDD)** según una fórmula avanzada.
 
 ---
+
+### Teoría
+
+<img src="regresionTeorica.png"/>
 
 ## 🔹 Funcionalidad
 
